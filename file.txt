@@ -1,0 +1,3 @@
+-this is practice git project file
+hello
+horse
